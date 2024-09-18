@@ -1,14 +1,23 @@
+class Student {
 
-
-public class Student {
   String name;
   int age;
-  //boolean isFemale;
-  //String datamatikerTeam;
-  
-  Student(String name, int age)
-  {
-  }
-}
+  boolean isFemale;
+  char datamatikerTeam;
 
-//"tmpName", "tmpAge", "tmpIsFemale", "tmpDatamatikerTeam"
+
+  Student (String tmpName, int tmpAge, boolean tmpIsFemale, char tmpDatamatikerTeam)
+  {
+    name = tmpName;
+    age = tmpAge;
+    isFemale = tmpIsFemale;
+    datamatikerTeam = tmpDatamatikerTeam;
+  }
+
+  /*Student(String name, int age, boolean isFemale, char datamatikerTeam) {
+   this.name = name;
+   this.age = age;
+   this.isFemale = isFemale;
+   this.datamatikerTeam = datamatikerTeam;
+   }*/
+}
