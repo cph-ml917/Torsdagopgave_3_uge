@@ -1,6 +1,7 @@
 //----------Task 4: Functions and objects----------//
 
-//Opgavebeskrivelse:
+
+//OPGAVEBESKRIVELSE:
 
 /*
 Create a new sketch, Task4 and copy the files Datamatik.pde and Student.pde from the folder Task3 to the folder Task5.
