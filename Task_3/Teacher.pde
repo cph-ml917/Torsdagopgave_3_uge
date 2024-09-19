@@ -11,9 +11,4 @@ class Teacher {
     isFemale = tmpIsFemale;
   }
   
-  /*Teacher(String name, int age, boolean isFemale) {
-   this.name = name;
-   this.age = age;
-   this.isFemale = isFemale;
-   }*/
 }
