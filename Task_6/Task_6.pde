@@ -9,7 +9,7 @@ Let i be initialized with the value 1 and let the loop end when i > 100.*/
 /*6.c Call the method from setup() to see if it works*/
 
 void setup() {
-  divisible(34);
+  divisible(152);
 }
 
 void divisible(int number) {
